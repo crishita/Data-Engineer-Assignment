@@ -24,3 +24,5 @@ the given format (eg: $56) and then separated the columns for currency and price
 In the 4th question , I have used the .groupby() function to list down the categories along
 with the average price of the products belonging to that category.
 In preprocessing, I checked for duplicates and dropped all of them.
+
+Link to the data - https://drive.google.com/drive/folders/1an6sC6DHUp1ADhTZZVkGKZzTWySEqjxI?usp=sharing
