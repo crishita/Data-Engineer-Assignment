@@ -9,6 +9,7 @@ code on your system, create a folder in your google drive, name it as â€œassignâ
 upload the csv file provided to us on this folder. Then by simply running the code,
 you will be able to view the output.
 
+Questions Answered:
 1. Products without prices
 2. Count of products without prices and with prices in each Product Type, Category, Level 1
 3. Correct Product Prices in the correct format (eg: $56) wherever possible and separate
